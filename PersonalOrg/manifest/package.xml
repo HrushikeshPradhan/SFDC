@@ -2,9 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>bbc</members>
+        <members>getResponse</members>
         <name>LightningComponentBundle</name>
     </types>
     <types>
+        <members>webCallout</members>
+        <members>webCalloutTest</members>
         <members>bbc</members>
         <members>bbcTest</members>
         <name>Apexclass</name>
