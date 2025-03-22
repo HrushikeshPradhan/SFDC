@@ -1,3 +1,4 @@
+// This Class will do a callout to the external service and return the response back.
 public class webCallout {
     
     @AuraEnabled(cacheable=true)
